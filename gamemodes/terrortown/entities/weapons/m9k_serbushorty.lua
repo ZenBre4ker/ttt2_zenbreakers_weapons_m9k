@@ -9,7 +9,7 @@ SWEP.SubClass			= "None" -- At the moment there are no further subclasses
 if CLIENT then
 	SWEP.PrintName		= "Serbu Super Shorty"
 
-	SWEP.ViewModelFlip	= false
+	SWEP.ViewModelFlip	= true
 
 	SWEP.Icon			= "vgui/ttt/icon_shotgun" -- to be edited
 	SWEP.IconLetter		= "b"

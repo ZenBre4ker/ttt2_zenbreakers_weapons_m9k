@@ -11,14 +11,14 @@ if CLIENT then
 
 	SWEP.ViewModelFlip	= false
 
-	SWEP.Icon			= "vgui/ttt/icon_shotgun" -- to be edited
+	SWEP.Icon			= "vgui/ttt/m37" -- to be edited
 	SWEP.IconLetter		= "b"
 end
 
 SWEP.Primary.Sound 		= Sound("weapons/tps/m3-1.wav")
 
 SWEP.ViewModel			= Model("models/weapons/tps/v_shot_m3super90.mdl")
-SWEP.WorldModel			= Model("models/weapons/w_shot_m3super90.mdl")
+SWEP.WorldModel			= Model("models/weapons/w_ithaca_m37.mdl")
 
 SWEP.IronSightsPos 		= Vector(-2, -5, 2)
 SWEP.IronSightsAng 		= Vector(2.6, 1.37, 3.5)

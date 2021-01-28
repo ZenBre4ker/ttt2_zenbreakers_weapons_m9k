@@ -11,7 +11,7 @@ if CLIENT then
 
 	SWEP.ViewModelFlip	= false
 
-	SWEP.Icon			= "vgui/ttt/browningauto5" -- to be edited
+	SWEP.Icon			= "vgui/ttt/browningauto5.png" -- to be edited
 	SWEP.IconLetter		= "b"
 end
 

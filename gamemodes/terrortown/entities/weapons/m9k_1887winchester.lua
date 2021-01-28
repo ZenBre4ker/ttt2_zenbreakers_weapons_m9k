@@ -11,7 +11,7 @@ if CLIENT then
 
 	SWEP.ViewModelFlip	= true
 
-	SWEP.Icon			= "vgui/ttt/1887winchester"
+	SWEP.Icon			= "vgui/ttt/1887winchester.png"
 	SWEP.IconLetter		= "k"
 end
 

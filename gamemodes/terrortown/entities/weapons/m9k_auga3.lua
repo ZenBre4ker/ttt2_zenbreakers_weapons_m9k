@@ -20,8 +20,10 @@ SWEP.Primary.Sound		= Sound("aug_a3.Single")
 SWEP.ViewModel			= Model("models/weapons/v_auga3sa.mdl")
 SWEP.WorldModel			= Model("models/weapons/w_auga3.mdl")
 
-SWEP.IronSightsPos 		= Vector(2.275, -2.9708, 0.5303)
+SWEP.IronSightsPos 		= Vector(-2.275, -2.9708, 0.5303)
 SWEP.IronSightsAng 		= Vector(0, 0, 0)
+SWEP.ZoomFOV				= 50
+SWEP.DrawIronSightsScope	= true
 
 SWEP.AutoSpawnable		= true
 SWEP.Spawnable			= true

@@ -3,7 +3,7 @@ if SERVER then
 end
 
 SWEP.Base				= "weapon_zen_pistolbase"
-SWEP.SubClass			= "auto"
+SWEP.SubClass			= "pistol"
 
 -- These can be copied to every weapon, as they are weapon specific
 if CLIENT then

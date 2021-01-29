@@ -15,7 +15,8 @@ if CLIENT then
 	SWEP.IconLetter		= "n"
 end
 
-SWEP.Primary.Sound 		= Sound("Dmgfok_M24SN.Single")
+SWEP.Primary.Sound 		= Sound("M98.Single")
+--SWEP.Primary.Sound 		= Sound("Dmgfok_M24SN.Single") --TODO: Fix original Sound is broken
 SWEP.Secondary.Sound	= Sound("Default.Zoom")
 
 SWEP.ViewModel			= Model("models/weapons/v_dmg_m24s.mdl")

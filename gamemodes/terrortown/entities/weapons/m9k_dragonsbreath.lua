@@ -18,7 +18,7 @@ if CLIENT then
 	SWEP.IconLetter		= "b"
 end
 
-SWEP.Primary.Sound 		= Sound("DragonFire")
+SWEP.Primary.Sound 		= Sound("DragonFire") --TODO: Shooting sound is broken by Reloadsound
 
 SWEP.ViewModel			= Model("models/weapons/dragonsbreath/v_shot_m3super90.mdl")
 SWEP.WorldModel			= Model("models/weapons/w_benelli_m3.mdl")

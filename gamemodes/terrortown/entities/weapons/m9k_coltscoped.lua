@@ -24,7 +24,7 @@ SWEP.Secondary.Sound		= Sound("Default.Zoom")
 SWEP.ViewModel				= Model("models/weapons/colts/v_pist_fiveseven.mdl")
 SWEP.WorldModel				= Model("models/weapons/w_pist_fiveseven.mdl")
 
-SWEP.IronSightsPos			= Vector(-1.941, 0, 0.759)
+SWEP.IronSightsPos			= Vector(-4.941, 0, 0.759)
 SWEP.IronSightsAng			= Vector(0, 0, 0)
 SWEP.ZoomFOV				= 50
 SWEP.DrawIronSightsScope	= true

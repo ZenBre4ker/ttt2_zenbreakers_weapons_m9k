@@ -19,9 +19,9 @@ SWEP.Primary.Sound 		= Sound("weapon_r_bull.single")
 SWEP.ViewModel			= Model("models/weapons/v_raging_bull_scoped.mdl")
 SWEP.WorldModel			= Model("models/weapons/w_raging_bull_scoped.mdl")
 
-SWEP.IronSightsPos		= Vector(2.773, 0, 0.846)
+SWEP.IronSightsPos		= Vector(-2.773, 0, 0.846)
 SWEP.IronSightsAng		= Vector(-0.157, 0, 0)
-SWEP.ZoomFOV				= 60
+SWEP.ZoomFOV				= 50
 SWEP.DrawIronSightsScope	= true
 
 SWEP.AutoSpawnable		= true

@@ -2,8 +2,8 @@ if SERVER then
 	AddCSLuaFile()
 end
 
-SWEP.Base				= "weapon_zen_sniperbase"
-SWEP.SubClass			= "bolt" -- "bolt" or "auto"
+SWEP.Base				= "weapon_zen_pistolbase"
+SWEP.SubClass			= "revolver" -- pistol or revolver or auto
 
 -- These can be copied to every weapon, as they are weapon specific
 if CLIENT then
@@ -23,6 +23,8 @@ SWEP.WorldModel			= Model("models/weapons/w_g2_contender.mdl")
 
 SWEP.IronSightsPos 		= Vector(3.68, 0, 1.08)
 SWEP.IronSightsAng 		= Vector(0, 0, 0)
+SWEP.ZoomFOV				= 60
+SWEP.DrawIronSightsScope	= true
 
 SWEP.AutoSpawnable 		= true
 SWEP.Spawnable          = true

@@ -1,3 +1,6 @@
+--TODO: Better World Models
+if not m9k_zen_plus then return end
+
 if SERVER then
 	AddCSLuaFile()
 end

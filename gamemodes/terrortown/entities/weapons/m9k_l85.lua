@@ -22,6 +22,8 @@ SWEP.WorldModel			= Model("models/weapons/w_l85a2.mdl")
 
 SWEP.IronSightsPos 		= Vector(2.275, -2.9708, 0.5303)
 SWEP.IronSightsAng 		= Vector(0, 0, 0)
+SWEP.ZoomFOV				= 40
+SWEP.DrawIronSightsScope	= true
 
 SWEP.AutoSpawnable		= true
 SWEP.Spawnable			= true

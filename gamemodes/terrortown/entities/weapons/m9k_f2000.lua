@@ -20,8 +20,10 @@ SWEP.Primary.Sound		= Sound("Weapon_F2000.Single")
 SWEP.ViewModel			= Model("models/weapons/v_tct_f2000.mdl")
 SWEP.WorldModel			= Model("models/weapons/w_fn_f2000.mdl")
 
-SWEP.IronSightsPos 		= Vector(3.499, 0, 1.08)
+SWEP.IronSightsPos 		= Vector(3.499, 0, -3.92)
 SWEP.IronSightsAng 		= Vector(0, 0, 0)
+SWEP.ZoomFOV				= 50
+SWEP.DrawIronSightsScope	= true
 
 SWEP.AutoSpawnable		= true
 SWEP.Spawnable			= true

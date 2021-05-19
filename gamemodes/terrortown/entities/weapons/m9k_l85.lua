@@ -20,7 +20,7 @@ SWEP.Primary.Sound		= Sound("Weapon_l85.Single")
 SWEP.ViewModel			= Model("models/weapons/v_rif_l85.mdl")
 SWEP.WorldModel			= Model("models/weapons/w_l85a2.mdl")
 
-SWEP.IronSightsPos 		= Vector(2.275, -2.9708, 0.5303)
+SWEP.IronSightsPos 		= Vector(2.275, -2.9708, -1.4697)
 SWEP.IronSightsAng 		= Vector(0, 0, 0)
 SWEP.ZoomFOV				= 40
 SWEP.DrawIronSightsScope	= true

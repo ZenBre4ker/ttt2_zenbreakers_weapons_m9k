@@ -21,7 +21,7 @@ SWEP.Secondary.Sound	= Sound("Default.Zoom")
 SWEP.ViewModel			= Model("models/weapons/v_hk_sl8.mdl")
 SWEP.WorldModel			= Model("models/weapons/w_hk_sl8.mdl")
 
-SWEP.IronSightsPos 		= Vector(3.079, -1.333, 0.437)
+SWEP.IronSightsPos 		= Vector(3.079, -1.333, -1.563)
 SWEP.IronSightsAng 		= Vector(0, 0, 0)
 
 SWEP.AutoSpawnable 		= true

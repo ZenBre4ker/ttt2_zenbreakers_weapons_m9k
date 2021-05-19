@@ -15,7 +15,7 @@ if CLIENT then
 	SWEP.IconLetter		= "e"
 end
 
-SWEP.Primary.Sound		= Sound("weapons/ak74u/galil-1.wav")
+SWEP.Primary.Sound		= Sound("Tactic_AK47.Single")
 
 SWEP.ViewModel			= Model("models/weapons/v_tct_ak47.mdl")
 SWEP.WorldModel			= Model("models/weapons/w_tct_ak47.mdl")
